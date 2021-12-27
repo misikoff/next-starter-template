@@ -7,7 +7,7 @@
     "lint": "next lint"
   },
   "lint-staged": {
-    "*.{js,jsx}": "eslint"
+    "*.{js,jsx,ts,tsx}": "eslint"
   },
   "dependencies": {
     "@headlessui/react": "^1.4.1",
