@@ -22,7 +22,7 @@ Dev Experience
 - Commitlint
 
 GitHub Settings
-VSCode Settings
+VSCode Setup
 
 ## Getting started
 
@@ -54,10 +54,11 @@ Fluffless doesn't mean "start with nothing". The goal of this template is to be 
 - [Commitlint](https://commitlint.js.org) for linting commit messages
 - [Lint-Staged](https://www.npmjs.com/package/lint-staged) to lint staged files
 
-**VSCode Settings**
-- Automatically format code when a file is saved.
-
 **GitHub Settings**
 - continous integration
 - Dependabot
 - semantic PRs
+
+**VSCode Setup**
+- automatically format code when a file is saved
+- see recommended extensions
