@@ -1,31 +1,52 @@
-# Next.js + Tailwind CSS Example
+# Next Starter
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+## Features
 
-It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-mode) for Tailwind CSS.
+Core Technologies
+- TypeScript
+- TailwindCSS
+- SASS
+- PWA
+- MDX Support
 
-## Preview
+Helpers
+- headlessUI
+- Heroicons
+- Lodash
 
-Preview the example live on [StackBlitz](http://stackblitz.com/):
+Dev Experience
+- ESLint
+- Prettier
+- Husky
+- Lint-Staged
+- Commitlint
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+- 🦄 Easily removable [nice-to-haves](#use-only-what-you-need)
+- 📱 Native-like mobile experience
 
-## Deploy your own
+## Getting started
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
+1. [Use this template](https://github.com/mvllow/next-starter/generate)
+2. `yarn` to install dependencies
+3. `yarn dev` to run
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+## Use only what you need
 
-## How to use
+Fluffless doesn't mean "start with nothing". The goal of this template is to be an entry into maintainable apps. Easliy remove
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+**The essentials**
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
+- TypeScript, made easy with Next.js
+- [tailwindcss](https://github.com/tailwindlabs/tailwindcss) for utility-first styling
+- [next-pwa](https://github.com/shadowwalker/next-pwa) for offline support
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
-# next-stitchedin-template
-# nuxt-starter
+**Nice to haves**
+- [Lodash](https://lodash.com)
+- [headlessUI](https://headlessui.dev)
+- [Heroicons](https://heroicons.com/)
+
+- [ESLint](https://eslint.org) to find and fix problems in your JavaScript code
+- [Prettier](https://prettier.io) to automatically format your code
+- [Husky](https://typicode.github.io/husky) for Git hooks
+- [Commitlint](https://commitlint.js.org) for linting commit messages
+- [Lint-Staged](https://www.npmjs.com/package/lint-staged) to lint staged files
