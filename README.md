@@ -6,8 +6,8 @@ Core Technologies
 - TypeScript
 - TailwindCSS
 - SASS
-- PWA
 - MDX Support
+- PWA
 
 Helpers
 - headlessUI
@@ -21,8 +21,8 @@ Dev Experience
 - Lint-Staged
 - Commitlint
 
-- 🦄 Easily removable [nice-to-haves](#use-only-what-you-need)
-- 📱 Native-like mobile experience
+GitHub Settings
+VSCode Settings
 
 ## Getting started
 
@@ -32,12 +32,14 @@ Dev Experience
 
 ## Use only what you need
 
-Fluffless doesn't mean "start with nothing". The goal of this template is to be an entry into maintainable apps. Easliy remove
+Fluffless doesn't mean "start with nothing". The goal of this template is to be an entry into maintainable apps.
 
 **The essentials**
 
-- TypeScript, made easy with Next.js
-- [tailwindcss](https://github.com/tailwindlabs/tailwindcss) for utility-first styling
+- [TypeScript](https://www.typescriptlang.org)
+- [TailwindCSS](https://github.com/tailwindlabs/tailwindcss) for utility-first styling
+- [Sass](https://sass-lang.com)
+- [MDX (@mdx-js/loader, @next/mdx, next-mdx-loader)](https://mdxjs.com/)
 - [next-pwa](https://github.com/shadowwalker/next-pwa) for offline support
 
 **Nice to haves**
@@ -45,8 +47,17 @@ Fluffless doesn't mean "start with nothing". The goal of this template is to be 
 - [headlessUI](https://headlessui.dev)
 - [Heroicons](https://heroicons.com/)
 
+**Dev Experience**
 - [ESLint](https://eslint.org) to find and fix problems in your JavaScript code
 - [Prettier](https://prettier.io) to automatically format your code
 - [Husky](https://typicode.github.io/husky) for Git hooks
 - [Commitlint](https://commitlint.js.org) for linting commit messages
 - [Lint-Staged](https://www.npmjs.com/package/lint-staged) to lint staged files
+
+**VSCode Settings**
+Automatically format code when a file is saved.
+
+**GitHub Settings**
+continous integration
+Dependabot
+semantic PRs
