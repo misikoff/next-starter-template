@@ -58,6 +58,6 @@ Fluffless doesn't mean "start with nothing". The goal of this template is to be 
 Automatically format code when a file is saved.
 
 **GitHub Settings**
-continous integration
-Dependabot
-semantic PRs
+- continous integration
+- Dependabot
+- semantic PRs
