@@ -26,7 +26,7 @@ Dev Experience
 
 ## Getting started
 
-1. [Use this template](https://github.com/mvllow/next-starter/generate)
+1. [Use this template](https://github.com/misikoff/next-starter/generate)
 2. `yarn` to install dependencies
 3. `yarn dev` to run
 
