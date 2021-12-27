@@ -55,7 +55,7 @@ Fluffless doesn't mean "start with nothing". The goal of this template is to be 
 - [Lint-Staged](https://www.npmjs.com/package/lint-staged) to lint staged files
 
 **VSCode Settings**
-Automatically format code when a file is saved.
+- Automatically format code when a file is saved.
 
 **GitHub Settings**
 - continous integration
