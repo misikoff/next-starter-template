@@ -22,6 +22,8 @@ Nice-to-haves
 - Lodash
 
 GitHub Settings
+
+
 VSCode Setup
 
 ## Getting started
