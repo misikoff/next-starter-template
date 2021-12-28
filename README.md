@@ -61,3 +61,6 @@ This template is a basic starting point for a Next.js. Any unwanted pieces of tt
 **VSCode Setup**
 - automatically format code when a file is saved
 - see recommended extensions
+
+
+See the [Wiki](https://github.com/misikoff/next-starter-template/wiki) for information.
