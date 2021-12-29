@@ -65,4 +65,4 @@ This template is a basic starting point for a Next.js. Any unwanted pieces of tt
 - see recommended extensions
 
 
-See the [Wiki](https://github.com/misikoff/next-starter-template/wiki) for information.
+See the [Wiki](https://github.com/misikoff/next-starter-template/wiki) for more information.
