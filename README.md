@@ -1,5 +1,5 @@
 # Next Starter Template
-This template incorporates a few powerful additions to a [Next.js](https://nextjs.org) project. A [demo](https://next-starter-template-gamma.vercel.app/) of this template is deployed via [Vercel](https://vercel.com). 
+This template incorporates a few powerful additions to a basic [Next.js](https://nextjs.org) project. A [demo](https://next-starter-template-gamma.vercel.app/) of this template is deployed via [Vercel](https://vercel.com). 
 
 **Use only what you need.** This template is just a starting point. Unwanted pieces of this template can be removed easily.
 
