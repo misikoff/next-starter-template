@@ -1,5 +1,4 @@
 import Link from 'next/link'
-/* This example requires Tailwind CSS v2.0+ */
 
 const curYear = new Date().getFullYear()
 
@@ -18,15 +17,15 @@ export default function Footer() {
           {navigation.main.map((item) => (
             <div key={item.name} className="px-5 py-2 text-center">
               <Link href={item.href}>
-                <a className="hover:text-blue-400 text-gray-400 underline text-base">
+                <a className="hover:text-blue-400 text-gray-600 underline text-base">
                   {item.name}
                 </a>
               </Link>
             </div>
           ))}
         </nav>
-        <p className="mt-8 text-center text-gray-400 text-base">
-          &copy; {curYear} Brand Title
+        <p className="mt-8 text-center text-gray-600 text-base">
+          &copy; {curYear} Title
         </p>
       </div>
     </footer>

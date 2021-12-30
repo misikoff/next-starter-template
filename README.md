@@ -5,6 +5,12 @@ This template incorporates a few powerful additions to a basic [Next.js](https:/
 
 See the [Wiki](https://github.com/misikoff/next-starter-template/wiki) for more information.
 
+<p align="center">
+	<a href="https://web.dev/measure">
+		<img alt="100% Lighthouse Scores" src="https://img.shields.io/badge/lighthouse-100%25-845EF7.svg?logo=lighthouse&logoColor=white&style=flat-square" />
+	</a>
+</p>
+
 ## Getting started
 
 1. [Use this template](https://github.com/misikoff/next-starter/generate)
