@@ -10,6 +10,8 @@ See the [Wiki](https://github.com/misikoff/next-starter-template/wiki) for more 
 1. [Use this template](https://github.com/misikoff/next-starter/generate)
 2. `yarn` to install dependencies
 3. `yarn dev` to run
+4. *Optional*: Adjust content properties in `pages/_document.tsx`
+5. *Optional*: Adjust app name in `manifest.json`
 
 ## Features
 

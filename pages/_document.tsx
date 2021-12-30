@@ -5,13 +5,13 @@ class MyDocument extends Document {
     return (
       <Html lang="en" className="h-full">
         <Head>
-          <meta name="application-name" content="Brand Title" />
+          <meta name="application-name" content="Title" />
           <meta name="apple-mobile-web-app-capable" content="yes" />
           <meta
             name="apple-mobile-web-app-status-bar-style"
             content="default"
           />
-          <meta name="apple-mobile-web-app-title" content="Brand Title" />
+          <meta name="apple-mobile-web-app-title" content="Title" />
           <meta name="description" content="Cook your heart out!" />
           <meta name="format-detection" content="telephone=no" />
           <meta name="mobile-web-app-capable" content="yes" />
@@ -65,14 +65,11 @@ class MyDocument extends Document {
           /> */}
 
           <meta name="twitter:card" content="summary" />
-          <meta name="twitter:url" content="https://nextjs.misikoff.com" />
+          <meta name="twitter:url" content="" />
           <meta name="twitter:title" content="Brand Title" />
           <meta name="twitter:description" content="Cook your heart out!" />
-          <meta
-            name="twitter:image"
-            content="https://nextjs.misikoff.com/icons/manifest-icon-192.maskable.png"
-          />
-          <meta name="twitter:creator" content="@TMisikoff" />
+          <meta name="twitter:image" content="" />
+          <meta name="twitter:creator" content="" />
           <meta property="og:type" content="website" key="og:type" />
           <meta property="og:title" content="Brand Title" key="og:title" />
           <meta
@@ -81,16 +78,8 @@ class MyDocument extends Document {
             key="og:description"
           />
           <meta property="og:site_name" content="Brand Title" />
-          <meta
-            property="og:url"
-            content="https://nextjs.misikoff.com"
-            key="og:url"
-          />
-          <meta
-            property="og:image"
-            content="https://nextjs.misikoff.com/icons/apple-icon-180.png"
-            key="og:image"
-          />
+          <meta property="og:url" content="" key="og:url" />
+          <meta property="og:image" content="" key="og:image" />
 
           {/* apple splash screen images */}
           <link
