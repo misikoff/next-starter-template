@@ -7,7 +7,7 @@ const navigation = {
   main: [{ name: 'Content Example', href: '/content-example' }],
 }
 
-export default function Example() {
+export default function Footer() {
   return (
     <footer className="bg-theme-background-dark p-8 text-sm">
       <div className="mx-auto px-4 max-w-7xl overflow-hidden sm:px-6 lg:px-8">
