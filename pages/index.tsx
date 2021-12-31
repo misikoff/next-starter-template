@@ -7,7 +7,13 @@ export default function Home() {
       <Head>
         <title>Home Page</title>
       </Head>
-      Home Page
+      <span className="block pb-4">Home Page</span>
+      <a
+        className="hover:text-blue-400 underline"
+        href="https://github.com/misikoff/next-starter-template"
+      >
+        Source Code
+      </a>
     </>
   )
 }
