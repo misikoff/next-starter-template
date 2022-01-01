@@ -12,7 +12,7 @@ class MyDocument extends Document {
             content="default"
           />
           <meta name="apple-mobile-web-app-title" content="Title" />
-          <meta name="description" content="Cook your heart out!" />
+          <meta name="description" content="" />
           <meta name="format-detection" content="telephone=no" />
           <meta name="mobile-web-app-capable" content="yes" />
           <meta
@@ -24,45 +24,42 @@ class MyDocument extends Document {
           <meta name="theme-color" content="#ffffff" />
 
           <link rel="apple-touch-icon" href="/icons-auto/apple-icon-180.png" />
-          {/* <link
+          <link
             rel="apple-touch-icon"
             sizes="152x152"
             href="/icons/touch-icon-ipad.png"
-          /> */}
-          {/* <link
+          />
+          <link
             rel="apple-touch-icon"
             sizes="180x180"
             href="/icons/touch-icon-iphone-retina.png"
-          /> */}
-          {/* <link
+          />
+          <link
             rel="apple-touch-icon"
             sizes="167x167"
             href="/icons/touch-icon-ipad-retina.png"
-          /> */}
+          />
 
-          {/* <link
+          <link
             rel="icon"
             type="image/png"
             sizes="32x32"
             href="/icons/favicon-32x32.png"
-          /> */}
-          {/* <link
+          />
+          <link
             rel="icon"
             type="image/png"
             sizes="16x16"
             href="/icons/favicon-16x16.png"
-          /> */}
+          />
           <link rel="manifest" href="/manifest.json" />
           <link
             rel="mask-icon"
             href="/icons-auto/manifest-icon-192.maskable.png"
-            color="#3a7ff3"
+            // color does not currently work
+            // color="#3a7ff3"
           />
-          <link rel="shortcut icon" href="/favicon.ico" />
-          {/* <link
-            rel="stylesheet"
-            href="https://fonts.googleapis.com/css?family=Roboto:300,400,500"
-          /> */}
+          <link rel="icon" href="/favicon.ico" />
 
           <meta name="twitter:card" content="summary" />
           <meta name="twitter:url" content="" />
