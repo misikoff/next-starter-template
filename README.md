@@ -1,5 +1,5 @@
 # Next Starter Template
-This template incorporates a few powerful additions to a basic [Next.js](https://nextjs.org) project. A [demo](https://next-starter-template-gamma.vercel.app/) of this template is deployed via [Vercel](https://vercel.com). 
+This template incorporates a few powerful additions to a basic [Next.js](https://nextjs.org) project.
 
 **Use only what you need.** This template is just a starting point. Unwanted pieces of this template can be removed easily.
 
@@ -10,6 +10,12 @@ See the [Wiki](https://github.com/misikoff/next-starter-template/wiki) for more 
 		<img alt="100% Lighthouse Scores" src="https://img.shields.io/badge/lighthouse-100%25-845EF7.svg?logo=lighthouse&logoColor=white&style=flat-square" />
 	</a>
 </p>
+
+## Vercel
+
+A [demo](https://next-starter-template-gamma.vercel.app) of this template is deployed via [Vercel](https://vercel.com).
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/misikoff/next-starter-template)
 
 ## Getting started
 
