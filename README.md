@@ -15,7 +15,7 @@ See the [Wiki](https://github.com/misikoff/next-starter-template/wiki) for more 
 
 A [demo](https://next-starter-template-gamma.vercel.app) of this template is deployed via [Vercel](https://vercel.com).
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/misikoff/next-starter-template)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/misikoff/next-starter-template&demo-title=New%20Feature&demo-description=A%20powerful%20Next.js%20application.&demo-url=https://nextjs.org&demo-image=https://images.unsplash.com/photo-1582135739786-3bceafcaea85?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=40)
 
 ## Getting started
 
