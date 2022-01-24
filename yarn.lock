@@ -4371,9 +4371,9 @@ prettier-linter-helpers@^1.0.0:
     fast-diff "^1.1.2"
 
 prettier-plugin-tailwindcss@^0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/prettier-plugin-tailwindcss/-/prettier-plugin-tailwindcss-0.1.1.tgz#1318ada36c61f6f5e858232c831ec19cb1ea6f76"
-  integrity sha512-mjwWE0fswYMiYw4KlcINXw5It6nXfJl3N0+eVFtuvjw+cJjFmErE7hXYJZnUSFSWXJacpCjx1KVkxSOolu4zBw==
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/prettier-plugin-tailwindcss/-/prettier-plugin-tailwindcss-0.1.2.tgz#cf877c9f0f90e3a6f6bdf0ea5856be406070a28f"
+  integrity sha512-dvfbiCzrqB7XPGhNp8t9I44WT+7jPbeX01Pj3NCqgvZRUVHwgaVbUuHYX6s4NbDVPI/jTcw2HuXcUMFSYniaCQ==
 
 prettier@^2.5.1:
   version "2.5.1"
