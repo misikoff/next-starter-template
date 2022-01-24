@@ -16,10 +16,10 @@ export default function Navbar() {
 
   return (
     <div className="w-full bg-blue-50">
-      <header className="flex px-6 h-20 space-x-12">
+      <header className="flex h-20 space-x-12 px-6">
         <Link href="/">
           <a className="group inline-flex items-center">
-            <div className="relative w-10 h-10">
+            <div className="relative h-10 w-10">
               <Image
                 alt="Gluten Free"
                 className="rounded-full"
@@ -28,7 +28,7 @@ export default function Navbar() {
                 objectFit="cover"
               />
             </div>
-            <h1 className="ml-2 group-hover:text-blue-600 font-medium">
+            <h1 className="ml-2 font-medium group-hover:text-blue-600">
               Title
             </h1>
           </a>
@@ -43,7 +43,7 @@ export default function Navbar() {
                     item.current
                       ? 'border-indigo-500 text-gray-900'
                       : 'border-transparent text-gray-700 hover:border-gray-300 hover:text-blue-600',
-                    'transform-colors inline-flex items-center pt-1 px-1 text-sm font-medium border-b-2 duration-200'
+                    'transform-colors inline-flex items-center border-b-2 px-1 pt-1 text-sm font-medium duration-200'
                   )}
                 >
                   {item.name}

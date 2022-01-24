@@ -9,7 +9,7 @@ export default function Home() {
       </Head>
       <span className="block pb-4">Home Page</span>
       <a
-        className="hover:text-blue-400 underline"
+        className="underline hover:text-blue-400"
         href="https://github.com/misikoff/next-starter-template"
       >
         Source Code

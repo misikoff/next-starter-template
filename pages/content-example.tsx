@@ -21,7 +21,7 @@ export default function Post({ source }: { source: MDXRemoteSerializeResult }) {
       <Head>
         <title>Example Content</title>
       </Head>
-      <article className="prose flex flex-col mx-auto p-4 w-full max-w-3xl">
+      <article className="prose mx-auto flex w-full max-w-3xl flex-col p-4">
         <MDXRemote {...source} />
       </article>
     </div>
