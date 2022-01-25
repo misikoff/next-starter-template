@@ -6,9 +6,6 @@
     "start": "next start",
     "lint": "next lint"
   },
-  "lint-staged": {
-    "*.{js,jsx,ts,tsx}": "eslint"
-  },
   "dependencies": {
     "@headlessui/react": "^1.4.3",
     "@heroicons/react": "^1.0.5",
