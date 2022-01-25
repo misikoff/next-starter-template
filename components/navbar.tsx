@@ -15,27 +15,27 @@ export default function Navbar() {
   })
 
   return (
-    <div className="w-full bg-blue-50">
-      <header className="flex h-20 space-x-12 px-6">
-        <Link href="/">
-          <a className="group inline-flex items-center">
-            <div className="relative h-10 w-10">
+    <div className='w-full bg-blue-50'>
+      <header className='flex h-20 space-x-12 px-6'>
+        <Link href='/'>
+          <a className='group inline-flex items-center'>
+            <div className='relative h-10 w-10'>
               <Image
-                alt="Gluten Free"
-                className="rounded-full"
-                src="/icon.png"
-                layout="fill"
-                objectFit="cover"
+                alt='Gluten Free'
+                className='rounded-full'
+                src='/icon.png'
+                layout='fill'
+                objectFit='cover'
               />
             </div>
-            <h1 className="ml-2 font-medium group-hover:text-blue-600">
+            <h1 className='ml-2 font-medium group-hover:text-blue-600'>
               Title
             </h1>
           </a>
         </Link>
 
-        <nav className="flex space-x-6">
-          <div className="hidden items-center space-x-6 sm:flex">
+        <nav className='flex space-x-6'>
+          <div className='hidden items-center space-x-6 sm:flex'>
             {navLinks.map((item) => (
               <Link key={item.name} href={item.href}>
                 <a
