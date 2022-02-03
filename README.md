@@ -29,7 +29,7 @@ A [demo](https://next-starter-template-gamma.vercel.app) of this template is dep
 
 ### Core Technologies
 - 📖 [TypeScript](https://www.typescriptlang.org) - a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale
-- 🎆 [TailwindCSS](https://github.com/tailwindlabs/tailwindcss) for utility-first styling
+- 🎆 [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss) for utility-first styling
 - 👓 [Sass](https://sass-lang.com) - a powerful extension of CSS
 - 📰 [MDX Support (via @mdx-js/loader, @next/mdx, next-mdx-loader)](https://mdxjs.com/)
 - 📱 [PWA Support (via next-pwa)](https://github.com/shadowwalker/next-pwa)
