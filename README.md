@@ -50,7 +50,6 @@ A [demo](https://next-starter-template-gamma.vercel.app) of this template is dep
 - [`Dependabot`](https://docs.github.com/en/code-security/supply-chain-security/keeping-your-dependencies-updated-automatically/configuration-options-for-dependency-updates) for dependency updates
 - [`Semantic PRs`](https://github.com/zeke/semantic-pull-requests)
 - `Continuous Integration` workflow to ensure that PRs have enough semantic information to trigger releases when appropriate
-- [`Combine PRs`](https://github.com/hrvey/combine-prs-workflow) workflow to group PRs together
 
 ### VSCode Setup
 - automatically format code when a file is saved
