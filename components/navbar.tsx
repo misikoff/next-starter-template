@@ -1,10 +1,7 @@
 import Image from 'next/image'
 import Link from 'next/link'
 import { useRouter } from 'next/router'
-
-function classNames(...classes: string[]) {
-  return classes.filter(Boolean).join(' ')
-}
+import classNames from 'classnames'
 
 const navLinks = [{ name: 'Articles', href: '/articles', current: false }]
 
