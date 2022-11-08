@@ -7,7 +7,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@headlessui/react": "^1.7.2",
+    "@headlessui/react": "^1.7.4",
     "@heroicons/react": "^2.0.12",
     "@mdx-js/loader": "^1.6.22",
     "@next/mdx": "^12.3.1",
