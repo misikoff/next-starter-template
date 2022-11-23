@@ -14,37 +14,36 @@ export default function Navbar() {
   return (
     <div className='w-full bg-blue-50'>
       <header className='flex h-20 space-x-12 px-6'>
-        <Link href='/'>
-          <a className='group inline-flex items-center'>
+        <Link href='/' className='group inline-flex items-center'>
+          <>
             <div className='relative h-10 w-10'>
               <Image
                 alt='Gluten Free'
-                className='rounded-full'
+                className='overflow-hidden rounded-full'
                 src='/icon.png'
-                layout='fill'
-                objectFit='cover'
+                fill={true}
               />
             </div>
             <h1 className='ml-2 font-medium group-hover:text-blue-600'>
               Title
             </h1>
-          </a>
+          </>
         </Link>
 
         <nav className='flex space-x-6'>
           <div className='hidden items-center space-x-6 sm:flex'>
             {navLinks.map((item) => (
-              <Link key={item.name} href={item.href}>
-                <a
-                  className={classNames(
-                    item.current
-                      ? 'border-indigo-500 text-gray-900'
-                      : 'border-transparent text-gray-700 duration-1000 hover:border-gray-300 hover:text-blue-600',
-                    'inline-flex items-center border-b-2 px-1 pt-1 text-sm font-medium  '
-                  )}
-                >
-                  {item.name}
-                </a>
+              <Link
+                key={item.name}
+                href={item.href}
+                className={classNames(
+                  item.current
+                    ? 'border-indigo-500 text-gray-900'
+                    : 'border-transparent text-gray-700 duration-1000 hover:border-gray-300 hover:text-blue-600',
+                  'inline-flex items-center border-b-2 px-1 pt-1 text-sm font-medium  '
+                )}
+              >
+                {item.name}
               </Link>
             ))}
           </div>

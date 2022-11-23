@@ -16,10 +16,11 @@ export default function Footer() {
         >
           {navigation.main.map((item) => (
             <div key={item.name} className='px-5 py-2 text-center'>
-              <Link href={item.href}>
-                <a className='text-base text-gray-600 underline hover:text-blue-400'>
-                  {item.name}
-                </a>
+              <Link
+                href={item.href}
+                className='text-base text-gray-600 underline hover:text-blue-400'
+              >
+                {item.name}
               </Link>
             </div>
           ))}
