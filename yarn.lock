@@ -1277,10 +1277,10 @@
   dependencies:
     glob "7.1.7"
 
-"@next/mdx@^13.2.0":
-  version "13.2.0"
-  resolved "https://registry.yarnpkg.com/@next/mdx/-/mdx-13.2.0.tgz#5a86e4420a884a329d939787045741b5aef322dd"
-  integrity sha512-L2ln6F9itBKEy7ntnF8t7UzHIj9V00GrU54d+RSjYK+G4U+fjDO4txpspvSnWwgSPu9hb2hZax54UBYBmnkReg==
+"@next/mdx@^13.2.1":
+  version "13.2.1"
+  resolved "https://registry.yarnpkg.com/@next/mdx/-/mdx-13.2.1.tgz#67969ec2dcd81a2a53ade955f3981df64f1e993d"
+  integrity sha512-kWriuAxU3euPUugwoOI7WEo596QeHsxrbneKvItwrfu4YYZZLKNPHSnkLHvF7tlO9TjiPbFqYlK2xHK02Lp2SA==
   dependencies:
     source-map "^0.7.0"
 
