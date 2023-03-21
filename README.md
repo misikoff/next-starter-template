@@ -43,7 +43,7 @@ A [demo](https://next-starter-template-gamma.vercel.app) of this template is dep
 
 ### Other Additions
 - [headlessUI](https://headlessui.dev) - a library of completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS
-- [Heroicons](https://heroicons.com/) - beautiful hand-crafted SVG icons, by the makers of Tailwind CSS
+- [heroicons](https://heroicons.com/) - beautiful hand-crafted SVG icons, by the makers of Tailwind CSS
 - [Lodash](https://lodash.com) - a powerful JavaScript utility-library
 
 ### GitHub Settings
