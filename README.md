@@ -38,7 +38,7 @@ A [demo](https://next-starter-template-gamma.vercel.app) of this template is dep
 
 ### GitHub Settings
 - [`Dependabot`](https://docs.github.com/en/code-security/supply-chain-security/keeping-your-dependencies-updated-automatically/configuration-options-for-dependency-updates) for dependency updates
-- Dependabot Auto-Merge to automatically merge Dependabot PRs for patch and minor versions
+- Dependabot Auto-Merge to automatically merge Dependabot PRs for patch and minor versions if all checks pass.
 
 ### VSCode Setup
 - automatically format code when a file is saved
