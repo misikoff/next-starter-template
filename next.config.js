@@ -1,17 +1,5 @@
-/** @type {import('next').NextConfig} */
-const withMDX = require('@next/mdx')({
-  extension: /\.mdx?$/,
-})
+const nextConfig = {
+  pageExtensions: ['js', 'jsx', 'ts', 'tsx'],
+}
 
-const withPWA = require('next-pwa')({
-  dest: 'public',
-})
-
-module.exports = withPWA(
-  withMDX({
-    images: {
-      domains: [],
-    },
-    pageExtensions: ['js', 'jsx', 'ts', 'tsx', 'md', 'mdx'],
-  })
-)
+module.exports = nextConfig
