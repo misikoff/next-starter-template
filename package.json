@@ -7,24 +7,24 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "^13.4.3",
+    "next": "^13.4.12",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@commitlint/config-conventional": "^17.6.1",
-    "@types/react": "^18.2.1",
+    "@commitlint/config-conventional": "^17.6.7",
+    "@types/react": "^18.2.17",
     "autoprefixer": "^10.4.14",
-    "commitlint": "^17.6.1",
-    "eslint": "^8.41.0",
-    "eslint-config-next": "^13.4.3",
-    "eslint-config-prettier": "^8.8.0",
-    "eslint-plugin-prettier": "^4.2.1",
+    "commitlint": "^17.6.7",
+    "eslint": "^8.45.0",
+    "eslint-config-next": "^13.4.12",
+    "eslint-config-prettier": "^8.9.0",
+    "eslint-plugin-prettier": "^5.0.0",
     "husky": "^8.0.3",
-    "lint-staged": "^13.2.2",
-    "postcss": "^8.4.23",
-    "prettier": "^2.8.8",
-    "prettier-plugin-tailwindcss": "^0.2.8",
-    "tailwindcss": "^3.3.2"
+    "lint-staged": "^13.2.3",
+    "postcss": "^8.4.27",
+    "prettier": "^3.0.0",
+    "prettier-plugin-tailwindcss": "^0.4.1",
+    "tailwindcss": "^3.3.3"
   }
 }
