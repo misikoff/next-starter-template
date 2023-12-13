@@ -13,7 +13,7 @@
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^18.4.3",
-    "@types/react": "^18.2.43",
+    "@types/react": "^18.2.44",
     "autoprefixer": "^10.4.16",
     "commitlint": "^18.4.3",
     "eslint": "^8.55.0",
