@@ -12,7 +12,7 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@commitlint/config-conventional": "^18.4.3",
+    "@commitlint/config-conventional": "^18.4.4",
     "@types/react": "^18.2.46",
     "autoprefixer": "^10.4.16",
     "commitlint": "^18.4.3",
