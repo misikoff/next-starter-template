@@ -2,6 +2,7 @@ module.exports = {
   extends: ['next/core-web-vitals', 'plugin:prettier/recommended'],
   plugins: ['prettier'],
   rules: {
+    curly: ['error', 'all'],
     'import/order': [
       'error',
       {
