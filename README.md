@@ -20,8 +20,8 @@ A [demo](https://next-starter-template-gamma.vercel.app) of this template is dep
 ## Getting started
 
 1. [Use this template](https://github.com/misikoff/next-starter/generate)
-2. `yarn` to install dependencies
-3. `yarn dev` to run
+2. `pnpm install` to install dependencies
+3. `pnpm dev` to run
 
 ## Features
 
